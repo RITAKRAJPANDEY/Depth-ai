@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.venv-ai/
+
+# Data / outputs (large)
+recordings/
+live/
+aria_out/
+
+# Third-party clones (have their own git history)
+depthai-main/
+projectaria_gen2_depth_from_stereo/
